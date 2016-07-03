@@ -28,6 +28,7 @@
 /ffprobe
 /ffserver
 /config.*
+!/config.h.in
 /coverage.info
 /avversion.h
 /lcov/
